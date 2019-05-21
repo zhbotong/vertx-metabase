@@ -8,6 +8,6 @@ run test:Test.kt
 
 
 if If you use spring-security-jwt then you can....
-
+```
 Jwt token = JwtHelper.encode(content, new MacSigner(METABASE_SECRET_KEY));
-
+```
